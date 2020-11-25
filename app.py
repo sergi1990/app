@@ -34,6 +34,6 @@ def delete_contact():
     return 'delete contac'
 
 
-if __name__ == '__name__':
-  app.run(port = 5000, debug = True)
+#if __name__ == '__name__':
+  #app.run(port = 5000, debug = True)
 
